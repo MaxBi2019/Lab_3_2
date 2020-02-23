@@ -5,5 +5,5 @@ To launch the application you need to download whole repository and run twitter.
 --------------------------------------------------------------------------------------------------------------------------------------
 ## Run examples
 ![Test Image 1](run_1.png)
-![Test Image 2](map_2.png)
-![Test Image 3](map_3.png)
+![Test Image 2](run_2.png)
+![Test Image 3](run_3.png)
